@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cairo Font Family - Using system fonts as fallback -->
+    <string name="font_family_cairo">sans-serif</string>
+</resources>

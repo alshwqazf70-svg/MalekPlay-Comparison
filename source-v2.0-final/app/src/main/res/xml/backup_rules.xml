@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Back up non-secret preferences and external playback resume points only. -->
+    <include domain="sharedpref" path="malekplay_family.xml" />
+    <include domain="sharedpref" path="malekplay_network_profiles.xml" />
+    <include domain="sharedpref" path="malekplay_external_progress.xml" />
+</full-backup-content>
